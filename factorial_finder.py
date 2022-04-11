@@ -1,3 +1,5 @@
+# Factorial finder using both loops and recursion
+
 def factorial(num, res, count):
     if num <= 1:
         return 1
