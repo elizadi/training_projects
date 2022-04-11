@@ -1,3 +1,5 @@
+# Simulated coin toss
+
 import random
 
 def tails_hands():
