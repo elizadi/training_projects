@@ -1,3 +1,6 @@
+#Converter to convert a decimal number to binary or a binary number to its decimal equivalent
+
+
 var = int(input('If you want convert binary to decimal enter 0 else if you want convert decimal to binary enter 1: '))
 
 #convert binary to decimal  
